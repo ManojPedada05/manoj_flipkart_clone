@@ -1,0 +1,332 @@
+body{
+    background-color: #F1F2F4;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+
+}
+.BTN{
+    background-color: white;
+    color: black;
+    border: none;
+    /* margin-left: 10px; */
+    margin-right:50px ;
+    font-size: 16px;
+    font-weight:500;
+}
+.searchbar{
+    width: 750px;
+    background-color: #F0F5FF;
+}
+.dropdown-toggle{
+    color: black;
+}
+.hover-dropdown{
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right:50px ;
+    font-size: 16px;
+    font-weight:600;
+}
+.hover-dropdown:hover{
+    background-color: #2A55E5;
+    color: white;
+}
+.hover-dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; 
+  }
+.btn-light:hover{
+    background-color: white;
+    border:none;
+}
+.hover-dropdown1:hover .dropdown-menu {
+  display: block;
+  margin-top: 0; 
+  
+}
+
+/* AFTER NAV BAR */
+.Box1{
+    display: flex;
+    justify-content: space-between;
+    /* justify-content:center;
+    align-items: center;
+    gap: 65px; */
+    padding: 10px 200px;
+    background-color: white;
+    margin: 10px 50px;
+}
+.box1{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 50px;
+}
+.box11{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.img1+p{
+    color:black;
+    font-size: 14px;
+}
+.img1{
+    width: 64px;
+    height: 64px;
+}
+.Img1{
+    width: 100%;
+    height: 100%;
+}
+
+/* AFTER BOX1 */
+
+.Imgslide{
+    height: 233px;
+    margin: 10px 50px;
+
+}
+.imgslide{
+    width: 100%;
+    height: 100%;
+}
+.carousel-control-prev, .carousel-control-next{
+
+    background-color: white;
+    width: 40px;
+    height: 88px;
+    margin-top: 85px;
+    opacity: 100;
+}
+.imgslideicon{
+    color: black;
+    font-size: 20px;
+    margin-right: 12px;
+}
+
+/* AFTER IMAGE SLIDES */
+.Txt21{
+    width: 1170px;
+    height: 62px;
+    padding: 16px;
+    font-size: 22px;
+    color: black;
+}
+.BOE{
+    display: flex;
+}
+.Box2{
+    /* display: flex; */
+    /* justify-content: space-between; */
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 1600px;
+    height: auto    ;
+    background-color: white;
+}
+.box2{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    width: 100%;
+    height: 243px;
+}
+.box21{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 227px;
+    /* background-color: yellow; */
+}
+.img2{
+    width: 152px;
+    height: 152px;
+    margin: 15px 0px;
+}
+.img2+p{
+    color:black;
+    font-size: 14px;
+}
+.Img2{
+    width: 100%;
+    height: 100%;
+}
+
+/* BEST DEALS OF SMARTPHONES */
+.Txt31{
+    width: 1170px;
+    height: 62px;
+    padding: 16px;
+    font-size: 22px;
+    color: black;
+}
+.BDS{
+    display: flex;
+}
+.Box3{
+    /* display: flex; */
+    /* justify-content: space-between; */
+    margin-top: 30px;
+    margin-left: 50px;
+    width: 1599px;
+    height: 324px;
+    background-color: white;
+}
+.box3{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    width: 100%;
+    height: 243px;
+}
+.box31{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 227px;
+    /* background-color: yellow; */
+}
+.img3{
+    width: 152px;
+    height: 152px;
+    margin: 15px 0px;
+}
+.img3+p{
+    color:black;
+    font-size: 14px;
+}
+.Img3{
+    width: 100%;
+    height: 100%;
+}
+
+.col{
+    width: 528px;
+    height: 281px;
+}
+.ImgCards{
+    width: 100%;
+    height: 100%;
+}
+.imgcard1,.imgcard2,.imgcard3,.imgcard4{
+    margin: 10px;
+}
+.imgcard4{
+    height: 710px;
+    gap: 10px;
+}
+.img4{
+    width: 215px;
+    height: 215px;
+}
+.Img4{
+    width: 100%;
+    height: 100%;
+}
+.fourin1{
+    height: 305px;
+}
+.SF{
+    width: 100%;
+    padding: 15px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.SFOFF{
+    margin: 8px;
+    height: 692px;
+    background-color: white;
+}
+.addv{
+    height: 692px;
+}
+.addv1{
+    margin-left: 8px;
+    margin-right: 8px;
+    height: 345px;
+}
+.btns{
+    border-radius: 100px;
+    color:white;
+    background-color: #2A55E5;
+}
+
+.Box4{
+    /* display: flex; */
+    /* justify-content: space-between; */
+    /* margin-top: 50px; */
+    margin: 30px;
+    width: 1600;
+    height: 780px;
+    background-color:white;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+.box4{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    width: 100%;
+    height: 243px;
+}
+.box41{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 227px;
+    /* background-color: yellow; */
+}
+.singimg{
+    width: 1600;
+    height: 168px;
+}
+.imgcard{
+    margin-top: 10px;
+}
+/* PREFOOTER */
+.Box5{
+    /* display: flex; */
+    /* justify-content: space-between; */
+    margin: 10px 0px;
+    padding: 40px 30px;
+    width: 1600px;
+    height: auto;
+    background-color: #F5F5F5;
+}
+.main{
+    font-size: 17px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+.Txt5{
+    font-size: 14px;
+    margin: 0px;
+}
+.txt5{
+    font-size: 12px;
+    margin: 0px;
+}
+.footer{
+    width:100%;
+}
+.fimg{
+    width: 100%;
+    height: 100%;
+}
+
